@@ -502,14 +502,9 @@ body::-webkit-scrollbar-thumb:hover {
 }
 
 
-.header-top {
-  background-color: #e0e0e02f;
-}
-
+.header-top,
 .header-user-actions,
-.desktop-navigation-menu {
-  display: none;
-}
+.desktop-navigation-menu { display: none; }
 
 .header-main {
 
